@@ -1,6 +1,6 @@
-# ToYD Dataset
+# ToDY Dataset
 
-Release of the additional annotation files of the ToYD Dataset. The dataset is derived from the [Skyfinder dataset](https://cs.valdosta.edu/~rpmihail/skyfinder/). 
+Release of the additional annotation files of the ToDY Dataset. The dataset is derived from the [Skyfinder dataset](https://cs.valdosta.edu/~rpmihail/skyfinder/). 
 
 
 ## Annotations
