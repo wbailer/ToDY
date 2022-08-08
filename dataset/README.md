@@ -43,15 +43,15 @@ The following quality attributes are contained:
 - DQ_TimeDiffers: time difference in minutes between the timestamp in the file name and the time in the metadata (TZ offset corrected), indication on how reliable the time specified in the metadata is
 
 
+### Annotation files
 
+`skyfinder_annotations.csv` contains all additional annotations for the Skyfinder images.
 
+`skyfinder_sampled_season.csv` contains a balanced sampled set of annotations for season classification.
 
+`skyfinder_sampled_tod.csv` contains a balanced sampled set of annotations for time of day classification.
 
-The annotations are contained in `annotations/train` and `annotations/val` directories.
-
-`....` contains all .
-
-
+The following file lists are of the train/test splits are provided for reference: `season_train.txt, season_val.txt, tod_train.txt, tod_val.txt`. Note that in order to have unique files names they are composed of `<camid>_<filename>`.
 
 ## License
 

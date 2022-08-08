@@ -25,6 +25,7 @@ Run `prepare_classes.py` with the following arguments:
 
 This mode can be used to sample images for manual verification or to sample a final set to be used. Optionally, data can be augmented by cropping different images with less sky region. The number of samples per class will be balanced, i.e. each class will have as many samples as the fewest number of samples of any of the classes.
 
+Note that the script currently uses a fixed initialisation of the random number generator in order to created a reproducible list of files. Comment these lines to get different outputs in each run.
 
 Run `prepare_classes.py` with the following arguments:
 
