@@ -1,4 +1,4 @@
-# ToDY: Time of Day/Year: Dataset for visual time of year and season classification
+# ToDY: Time of Day/Year: Dataset for visual time of day and season classification
 ToDY [dataset](dataset/README.md) and related [tools](tools/README.md).
 
 # Acknowledgement
