@@ -1,4 +1,4 @@
-# ToYD toolchain
+# ToDY toolchain
 
 This directory contains the toolchain that has been used to generate additional annotations for the [Skyfinder dataset](https://cs.valdosta.edu/~rpmihail/skyfinder/), and a script to prepare data directories for training.
 
